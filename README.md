@@ -24,8 +24,7 @@ This repository provides an easy-to-use Google Colab notebook that lets you tran
 ---
 
 ### 📹 Related YouTube Tutorial
-Watch the full tutorial here 👉 [YouTube Video Link](https://youtube.com/your_video_link)
-
+Watch the full tutorial here 👉 [YouTube Video Link](https://youtu.be/u-dV87jdD9s)
 ---
 
 ## 🛡 License
