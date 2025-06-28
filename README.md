@@ -2,7 +2,7 @@
 
 This repository provides an easy-to-use Google Colab notebook that lets you transfer files and folders from one Google Drive account to another — **without downloading or re-uploading manually**.
 
-🔗 **Run it in Colab**: [Open in Colab](🔗 **Run it in Colab**: [Open in Colab](https://colab.research.google.com/drive/1cmo8bNSxCL_I5mboSvy6ylVaI4lUiqwt?usp=sharing))
+🔗 **Run it in Colab**: (🔗 **Run it in Colab**: [Open in Colab](https://colab.research.google.com/drive/1cmo8bNSxCL_I5mboSvy6ylVaI4lUiqwt?usp=sharing))
 
 ## ✅ Features
 - Transfer entire folders with subfolders and files
