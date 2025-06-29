@@ -24,7 +24,7 @@ This repository provides an easy-to-use Google Colab notebook that lets you tran
 ---
 
 ### 📹 Related YouTube Tutorial
-Watch the full tutorial here 👉 [How to Transfer Google Drive Files to Another Account (3 EASY Methods!) - TechData 360](https://youtu.be/u-dV87jdD9s)
+How to Transfer Google Drive Files to Another Account (3 EASY Methods!) 👉 [How to Transfer Google Drive Files to Another Account (3 EASY Methods!) - TechData 360](https://youtu.be/u-dV87jdD9s)
 ---
 
 ## 🛡 License
